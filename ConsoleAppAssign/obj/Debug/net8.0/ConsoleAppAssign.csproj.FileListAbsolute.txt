@@ -1,0 +1,14 @@
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net8.0\ConsoleAppAssign.exe
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net8.0\ConsoleAppAssign.deps.json
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net8.0\ConsoleAppAssign.runtimeconfig.json
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net8.0\ConsoleAppAssign.dll
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net8.0\ConsoleAppAssign.pdb
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.AssemblyInfoInputs.cache
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.AssemblyInfo.cs
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.csproj.CoreCompileInputs.cache
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.dll
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\refint\ConsoleAppAssign.dll
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.pdb
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ConsoleAppAssign.genruntimeconfig.cache
+C:\Users\ajay.k_int1595\Downloads\Dot_net_mvc\Assignment_Console_App\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net8.0\ref\ConsoleAppAssign.dll
